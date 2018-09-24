@@ -14,7 +14,7 @@ import {
   TextInput
 } from 'react-native';
 var { width, height } = Dimensions.get('window');
-import Icon from 'react-native-vector-icons/Ionicons';
+import Icon from 'react-native-vector-icons/dist/Ionicons';
 
 export default class CustomMultiPicker extends Component {
   constructor(props){
